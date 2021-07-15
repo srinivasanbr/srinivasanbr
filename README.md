@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a DevOps Engineer.  I have experience working as part of a team and individually and i always energetic and eager to learn new skills. I use a creative approach to problem solve. I always seek to achieve a high standard in whatever work I take. I have experience on Implementing cloud services IAAS, PAAS , and SaaS which include Docker and Openshift. Manageing  Docker orchestration and Docker containerization using Kubernetes. Used Kubernetes to orchestrate the deployment, scaling and management of Docker Containers.
+I am a DevOps Engineer who is always energetic and eager to learn new skills, take a creative approach to problem solving, always seeking to achieve a high standard in whatever task I'm assigned. I have experience implementing cloud services; graduating top-class especially in the K8s realm, i.e; Used Kubernetes to orchestrate the deployment, scaling and management of Docker Containers and on a more professional setting worked extensively on the Openshift Container Platform.
 
 - 🔭 I’m currently working on Openshift.     
 - 🌱 I’m currently learning GCP.    
